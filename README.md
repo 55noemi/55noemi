@@ -1,4 +1,4 @@
-- 👋 Hi, Im @55noemi
+- 👋 Hi, i am @55noemi
 - 👀 I’m interested in being an ing. of data   
 - 🌱 I’m currently learning to program 
 
